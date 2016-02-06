@@ -24,3 +24,4 @@ def solution(A):
 x = solution([1,1,1,0,1])
 print (x)
 print ("Testing code!")
+print ("Testing code2!")
