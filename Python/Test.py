@@ -21,5 +21,6 @@ def solution(A):
     return result + r
 
 
-x = solution([1,1,1,0,1,0,0])
+x = solution([1,1,1,0,1])
 print (x)
+print ("Testing code!")
